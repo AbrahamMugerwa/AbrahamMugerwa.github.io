@@ -1,0 +1,78 @@
+
+html{
+     scroll-behavior: smooth; 
+    
+}
+
+
+body{
+    background-color: #393646;
+    font-family: sans-serif;
+
+}
+
+.shadow{
+    box-shadow: 5px 5px 5px 5px #4F4557 ;
+}
+
+img{
+    box-shadow: 5px 5px 5px 5px #4F4557;
+}
+
+
+
+.btn{
+    color: #F4EEE0;
+    border-color: #F4EEE0;
+    
+}
+
+.btn:hover{
+    color: #F4EEE0;
+    background-color: #4F4557;
+    border-color: #F4EEE0 ;
+  
+}
+
+
+
+
+.logo{
+    display: inline-block;
+    vertical-align: middle;
+    
+    
+}
+
+.logo img{
+    min-width: 80px;
+    max-width: 80px;
+    width: auto;
+    height: auto;
+    size-adjust: content;
+    
+}
+
+.logo:hover{
+    background-color:#6D5D6E;
+}
+
+#navText{
+    color: #F4EEE0;  
+    
+}
+
+.active, .nav-item:hover{
+    
+    background-color: #6D5D6E !important;
+    border-radius:0.375rem ;
+}
+
+
+
+
+
+
+
+
+
