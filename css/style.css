@@ -67,6 +67,9 @@ img{
     border-radius:0.375rem ;
 }
 
+.text-bg-primary{
+    background-color: #6D5D6E !important
+}
 
 
 @media screen and (min-width: 768px) {
