@@ -45,8 +45,8 @@ img{
 }
 
 .logo img{
-    min-width: 80px;
-    max-width: 80px;
+    min-width: 58px;
+    max-width: 58px;
     width: auto;
     height: auto;
     size-adjust: content;
