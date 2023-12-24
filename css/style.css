@@ -15,9 +15,7 @@ body{
     box-shadow: 5px 5px 5px 5px #4F4557 ;
 }
 
-img{
-    box-shadow: 5px 5px 5px 5px #4F4557;
-}
+
 
 
 
@@ -39,7 +37,7 @@ img{
 .logo{
     display: inline-block;
     vertical-align: middle;
-    
+    box-shadow: 5px 5px 5px 5px #4F4557;
     
 }
 
